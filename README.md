@@ -7,12 +7,19 @@ This project is an OCR-Based Data Extraction Module designed for the Ministry of
 **Features**
 
 User Authentication: Secure login/logout system.
+
 Vendor Registration: Stores vendor details, including PAN number and uploaded PAN image.
+
 OCR-Based PAN Verification: Extracts and validates PAN numbers from uploaded images.
+
 Interactive UI: Modern, responsive, and easy-to-navigate design.
+
 Instant Pop-up Notifications: Displays success/error messages in a centered, visually appealing toast notification.
+
 View PAN Image: Opens the PAN image in a new tab.
+
 Export Options: Allows exporting data in PDF, CSV, and Excel formats.
+
 Navigation: Includes a "Back to Home" button for better user experience.
 
 **Technology Stack**
