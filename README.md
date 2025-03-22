@@ -34,7 +34,7 @@ OCR Processing: Tesseract OCR
 
 Installation
 
-Install dependencies:
+**Install dependencies:**
 
 pip install -r requirements.txt
 
@@ -52,21 +52,21 @@ http://127.0.0.1:5000/
 
 **Usage**
 
-Login: Enter credentials to access the system.
+**Login: **Enter credentials to access the system.
 
-Vendor Registration: Fill out the form and upload the PAN image.
+**Vendor Registration:** Fill out the form and upload the PAN image.
 
-Data Management: View registered vendors and their PAN details.
+**Data Management:** View registered vendors and their PAN details.
 
-PAN Verification:Click Verify to check if extracted PAN matches the stored one.
+**PAN Verification:**Click Verify to check if extracted PAN matches the stored one.
 
-A pop-up notification displays verification status.
+**A pop-up notification displays verification status.**
 
-View PAN Image: Click View to open the image in a new tab.
+****View PAN Image: ****Click View to open the image in a new tab.
 
-Export Data: Download vendor records in PDF, CSV, or Excel formats.
+**Export Data:** Download vendor records in PDF, CSV, or Excel formats.
 
-Navigation: Use the Back to Home button to return to the homepage.
+**Navigation:** Use the Back to Home button to return to the homepage.
 
 **Folder Structure**
 
@@ -114,11 +114,14 @@ jQuery
 pandas (for exporting data)
 
 **Contribution**
+
 Feel free to contribute by submitting pull requests or reporting issues.
 
 **License**
+
 This project is licensed under the MIT License.
 
 **Contact**
+
 For any inquiries, contact your nkishansaireddy16@egmail.com.
 
