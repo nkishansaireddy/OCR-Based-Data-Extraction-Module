@@ -1,6 +1,6 @@
-**OCR-Based Data Extraction Module
-**
-**Overview**
+OCR-Based Data Extraction Module
+
+Overview
 
 This project is an OCR-Based Data Extraction Module designed for the Ministry of New and Renewable Energy, Government of India. The system automates vendor registration and PAN card verification using Flask, Tesseract OCR, Bootstrap, and SQLite. It provides an interactive web-based experience for uploading, extracting, and validating PAN card details.
 
