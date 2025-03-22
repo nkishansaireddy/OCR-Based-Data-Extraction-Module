@@ -1,6 +1,6 @@
-OCR-Based Data Extraction Module
+**OCR-Based Data Extraction Module
 
-Overview
+Overview**
 
 This project is an OCR-Based Data Extraction Module designed for the Ministry of New and Renewable Energy, Government of India. The system automates vendor registration and PAN card verification using Flask, Tesseract OCR, Bootstrap, and SQLite. It provides an interactive web-based experience for uploading, extracting, and validating PAN card details.
 
@@ -22,10 +22,6 @@ Database: SQLite
 OCR Processing: Tesseract OCR
 Installation
 
-Clone the repository:
-git clone https://github.com/yourusername/ocr-data-extraction.git
-cd ocr-data-extraction
-
 Install dependencies:
 
 pip install -r requirements.txt
@@ -36,24 +32,14 @@ python app.py
 Open the application in your browser:
 http://127.0.0.1:5000/
 
-Usage
-
+**Usage**
 Login: Enter credentials to access the system.
-
 Vendor Registration: Fill out the form and upload the PAN image.
-
 Data Management: View registered vendors and their PAN details.
-**
-PAN Verification:**
-
-Click Verify to check if extracted PAN matches the stored one.
-
+PAN Verification:Click Verify to check if extracted PAN matches the stored one.
 A pop-up notification displays verification status.
-
 View PAN Image: Click View to open the image in a new tab.
-
 Export Data: Download vendor records in PDF, CSV, or Excel formats.
-
 Navigation: Use the Back to Home button to return to the homepage.
 
 **Folder Structure**
